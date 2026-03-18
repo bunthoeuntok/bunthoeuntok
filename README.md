@@ -1,29 +1,37 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hi, I'm Bunthoeun Tok
 
-Welcome to my GitHub! I'm a passionate developer who loves building cool things with code.
+Welcome to my GitHub! I'm a Full-Stack Developer based in Cambodia who loves building clean, scalable web applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[Project Name]**
-- 🌱 I’m currently learning: **[Tech Stack or Concept]**
-- 👯 I’m looking to collaborate on: **Open Source / Projects**
-- 💬 Ask me about: **Web Dev, Mobile Apps, APIs, or anything tech**
-- ⚡ Fun fact: **[Something quirky or interesting]**
+- 💼 I'm a **Full-Stack Developer** with experience across frontend and backend
+- 🌱 Currently learning: **Java Spring Framework**
+- 👯 Open to collaborating on: **Open Source & Interesting Projects**
+- 💬 Ask me about: **Vue.js, React, .NET, Java, PHP, or anything web**
+- 📍 Based in: **Cambodia**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+**Frontend**
 
-> *Customize these with your own tech stack badges.*
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
@@ -39,11 +47,10 @@ Welcome to my GitHub! I'm a passionate developer who loves building cool things 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunthoeun-tok-8487ba206)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://bunthoeuntok.github.io/my-portfolio)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buntheoun.code@gmail.com)
 
 ---
 
-_Thanks for visiting my profile!_ ✨
+_Thanks for stopping by!_ ✨
